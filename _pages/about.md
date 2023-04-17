@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a senior data scientist/biostatistician at [Stanford University](https://med.stanford.edu/) and research associate at the [Veteran Affairs Center for Innovation to Implementation (Ci2i)](https://www.hsrd.research.va.gov/centers/ci2i.cfm). 
+I am a senior data scientist/biostatistician at [Stanford University](https://med.stanford.edu/) and research associate at the [Veteran Affairs Center for Innovation to Implementation (Ci2i)](https://www.hsrd.research.va.gov/centers/ci2i.cfm). 
 
 Previously I managed the Quantitative Science team in the Machine Learning group of [Flatiron Health](https://flatiron.com/) and was a research scientist in the [Center of Biomedical Informatics and Department of Biomedical Data Science at Stanford](https://med.stanford.edu/dbds.html). 
 
