@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://med.stanford.edu/'>Stanford University</a>
+#subtitle: <a href='https://med.stanford.edu/'>Stanford University</a>
 
 profile:
   align: right
