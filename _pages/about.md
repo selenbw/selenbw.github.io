@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://med.stanford.edu/'>Stanford University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  address: # >
+    # <p>555 your office number blah</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a senior data scientist/biostatistician at [Stanford University](https://med.stanford.edu/) and research associate at the [Veteran Affairs Center for Innovation to Implementation (Ci2i)](https://www.hsrd.research.va.gov/centers/ci2i.cfm). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously I managed the Quantitative Science team in the Machine Learning group of [Flatiron Health](https://flatiron.com/) and was a research scientist in the [Center of Biomedical Informatics and Department of Biomedical Data Science at Stanford](https://med.stanford.edu/dbds.html). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Ph.D. research in clinical natural language processing and machine learning under direction of [Prof. Daniel L. Rubin](https://profiles.stanford.edu/daniel-rubin) and Prof. Kemal Hakan Gulkesen at [Stanford University](https://med.stanford.edu/) and [Akdeniz University.](https://eng.akdeniz.edu.tr/)
