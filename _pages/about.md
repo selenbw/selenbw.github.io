@@ -19,8 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior data scientist/biostatistician at [Stanford University](https://med.stanford.edu/) and research associate at the [Veteran Affairs Center for Innovation to Implementation (Ci2i)](https://www.hsrd.research.va.gov/centers/ci2i.cfm). 
+My research interests center around the development, evaluation, and implementation of patient-centered artificial intelligence (AI) solutions that advance the quality and equity of healthcare delivery. Leveraging expertise in natural language processing, machine learning, and biostatistics, I seek to explore the ethical implications of AI in healthcare decision-making, ensuring that machine learning is both reliable and statistically rigorous, while remaining human-compatible. Additionally, I am committed to contributing to broader AI governance efforts, shaping policies that support the ethical and equitable use of AI in healthcare.
 
-Previously I managed the Quantitative Science team in the Machine Learning group of [Flatiron Health](https://flatiron.com/) and was a research scientist in the [Center of Biomedical Informatics and Department of Biomedical Data Science at Stanford](https://med.stanford.edu/dbds.html). 
-
-I completed my Ph.D. research in clinical natural language processing and machine learning under direction of [Prof. Daniel L. Rubin](https://profiles.stanford.edu/daniel-rubin) and Prof. Kemal Hakan Gulkesen at [Stanford University](https://med.stanford.edu/) and [Akdeniz University.](https://eng.akdeniz.edu.tr/)
+Starting September 2023, I will join [Emory University's Biomedical Informatics Department]((https://med.emory.edu/departments/biomedical-informatics/index.html)) as an Assistant Professor and [AI Humanity Initiative](https://aihumanity.emory.edu/) Scholar. Currently, I hold the position of Senior Data Scientist/Biostatistician at Stanford University, and I am also a Research Associate at the Veteran Affairs Center for Innovation to Implementation (Ci2i).
